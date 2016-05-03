@@ -1,6 +1,4 @@
-A modified Hello world alike app using AureliaJS
-
-# aurelia-skeleton-navigation (typescript)
+# A modified Hello world alike app using AureliaJS
 
 ## Running The App
 
